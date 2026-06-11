@@ -118,28 +118,28 @@
         "name": "Mariana",
         "role": "PMU Trainer & International Champion",
         "city": "Netherlands",
-        "quote": "Having all consent forms stored digitally has completely eliminated paperwork chaos in my salon. Every client file is secure, organized, and instantly accessible."
+        "quote": "Having all consent forms stored digitally within the application has completely eliminated paperwork chaos in my salon. I no longer risk losing important documents, and every client file is securely organized and instantly accessible. This gives me peace of mind and keeps my entire workflow clean, structured, and professional."
       },
       {
         "photo": "ioana",
         "name": "Ioana Vărzaru",
         "role": "PMU Trainer & Beauty Business Advisor",
         "city": "Brussels",
-        "quote": "The Fitzpatrick scale and pigment tracking system changed the way I work. I always know exactly how each client was treated in previous sessions."
+        "quote": "The built-in Fitzpatrick scale and pigment tracking system completely changed the way I work. I can now record exactly which pigments were used and where, so I always know precisely how each client was treated during previous sessions. This level of detail allows me to improve results, ensure consistency, and work with much more confidence and precision."
       },
       {
         "photo": "lilia",
         "name": "Lilia Caraush",
         "role": "PMU Master & Educator",
         "city": "",
-        "quote": "I save around 20 minutes per client. All data is digital and instantly accessible — full history in seconds. It gave me complete control over every appointment."
+        "quote": "With this application, I save around 20 minutes per client, which is extremely valuable in my daily work. All client data is fully digitalized and instantly accessible, allowing me to see each client's full history in seconds. This significantly streamlines my workflow, improves organization, and gives me complete control over every appointment and detail."
       },
       {
         "photo": "teodora",
         "name": "Teodora Drăghici",
         "role": "PMU Events Organizer",
         "city": "",
-        "quote": "I work with beauty technicians and I know how important organized digital records are. Estetika Professional is a real support in that process."
+        "quote": "I work with beauty technicians and I know how important it is to keep schedules and client records organized in a digital format. Estetika Professional comes as a real support in this process."
       }
     ]
   },
@@ -315,8 +315,8 @@
     "termsOfService": "Terms of Service",
     "cookiePolicy": "Cookie Policy",
     "contact": "Contact",
-    "builtIn": "Built in Brussels",
-    "copyright": "© 2026 Estetika Professional. All rights reserved."
+    "builtInEurope": "Built in Europe",
+    "copyright": "© 2025 Estetika Professional. All rights reserved."
   },
   "cookieConsent": {
     "message": "We use only essential cookies to keep this site working — no advertising trackers. Learn more in our",
@@ -325,7 +325,7 @@
     "policy": "Cookie Policy"
   },
   "whatsapp": {
-    "tooltip": "Hi! 🤍 Got a question? We're here.",
+    "tooltip": "Hi! 💌 Got a question? We're here.",
     "ariaLabel": "Chat with us on WhatsApp",
     "message": "Hi! I'd like to know when Estetika Professional launches"
   },

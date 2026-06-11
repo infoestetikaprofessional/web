@@ -109,6 +109,7 @@
     }
   },
   "testimonials": {
+    "eyebrow": "Ce spun profesionistii",
     "title": "Apreciat de profesionistii din beauty",
     "subtitle": "Artisti PMU, traineri si proprietari de saloane se bazeaza deja pe Estetika Professional.",
     "items": [
@@ -306,14 +307,16 @@
     }
   },
   "footer": {
+    "community": "Comunitate",
+    "connectTitle": "Sa ne conectam",
     "tagline": "Gestionati-va afacerea beauty cu incredere.",
     "legal": "Legal",
     "privacyPolicy": "Politica de Confidentialitate",
     "termsOfService": "Termeni si Conditii",
     "cookiePolicy": "Politica Cookie",
     "contact": "Contact",
-    "builtIn": "Construit in Bruxelles",
-    "copyright": "© 2026 Estetika Professional. Toate drepturile rezervate."
+    "builtInEurope": "Construit in Europa",
+    "copyright": "© 2025 Estetika Professional. Toate drepturile rezervate."
   },
   "cookieConsent": {
     "message": "Folosim doar cookie-uri esentiale pentru functionarea site-ului — fara trackere publicitare. Aflati mai multe in",
@@ -322,7 +325,7 @@
     "policy": "Politica Cookie"
   },
   "whatsapp": {
-    "tooltip": "Buna! 🤍 Suntem aici pentru voi.",
+    "tooltip": "Bună! 💌 Suntem aici pentru voi.",
     "ariaLabel": "Discutati cu noi pe WhatsApp",
     "message": "Buna ziua! As dori sa aflu cand se lanseaza Estetika Professional"
   },

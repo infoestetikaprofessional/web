@@ -109,6 +109,7 @@
     }
   },
   "testimonials": {
+    "eyebrow": "Ce que disent les professionnels",
     "title": "Plébiscité par les professionnels de la beauté",
     "subtitle": "Des artistes PMU, des formatrices et des propriétaires de salon font déjà confiance à Estetika Professional.",
     "items": [
@@ -306,14 +307,16 @@
     }
   },
   "footer": {
+    "community": "Communauté",
+    "connectTitle": "Restons connectés",
     "tagline": "Gérez votre activité beauté en toute confiance.",
     "legal": "Mentions légales",
     "privacyPolicy": "Politique de confidentialité",
     "termsOfService": "Conditions d'utilisation",
     "cookiePolicy": "Politique de cookies",
     "contact": "Contact",
-    "builtIn": "Fabriqué à Bruxelles",
-    "copyright": "© 2026 Estetika Professional. Tous droits réservés."
+    "builtInEurope": "Conçu en Europe",
+    "copyright": "© 2025 Estetika Professional. Tous droits réservés."
   },
   "cookieConsent": {
     "message": "Nous utilisons uniquement des cookies essentiels au fonctionnement du site — aucun traceur publicitaire. En savoir plus dans notre",
@@ -322,7 +325,7 @@
     "policy": "Politique de cookies"
   },
   "whatsapp": {
-    "tooltip": "Bonjour ! 🤍 Une question ? Écrivez-nous.",
+    "tooltip": "Bonjour ! 💌 Une question ? Écrivez-nous.",
     "ariaLabel": "Discuter avec nous sur WhatsApp",
     "message": "Bonjour ! Je souhaite savoir quand Estetika Professional sera disponible"
   },

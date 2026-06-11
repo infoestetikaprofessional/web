@@ -38,17 +38,17 @@ onMounted(() => {
       :href="whatsappUrl"
       target="_blank"
       rel="noopener noreferrer"
-      class="relative mb-2 rounded-xl bg-[#25D366] px-4 py-2.5 text-sm font-semibold text-white shadow-lg whitespace-nowrap hover:bg-[#20BD5A] transition-colors cursor-pointer"
+      class="relative mb-2 rounded-xl bg-[#1f2952] px-4 py-2.5 text-sm font-semibold text-[#F5EDE8] shadow-lg whitespace-nowrap hover:bg-[#2a3566] transition-colors cursor-pointer"
     >
       {{ $t('whatsapp.tooltip') }}
-      <span class="absolute -right-1.5 bottom-3 w-3 h-3 bg-[#25D366] rotate-45" />
+      <span class="absolute -right-1.5 bottom-3 w-3 h-3 bg-[#1f2952] rotate-45" />
     </a>
     <a
       :href="whatsappUrl"
       target="_blank"
       rel="noopener noreferrer"
       :aria-label="$t('whatsapp.ariaLabel')"
-      class="flex items-center justify-center w-14 h-14 rounded-full bg-[#25D366] text-white shadow-lg hover:bg-[#20BD5A] transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#25D366]"
+      class="flex items-center justify-center w-14 h-14 rounded-full bg-[#1f2952] text-[#F5EDE8] shadow-lg hover:bg-[#2a3566] transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#1f2952]"
       :class="{
         'animate-whatsapp-enter': !reducedMotion,
         'animate-whatsapp-pulse': !reducedMotion,
