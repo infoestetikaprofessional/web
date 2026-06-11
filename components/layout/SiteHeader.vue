@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const switchLocalePath = useSwitchLocalePath()
-const localePath = useLocalePath()
 const { locale } = useI18n()
 </script>
 
@@ -41,12 +40,14 @@ const { locale } = useI18n()
           </NuxtLink>
         </div>
 
-        <NuxtLink
-          :to="`${localePath('/')}#waitlist`"
+        <a
+          :href="APP_STORE_URL"
+          target="_blank"
+          rel="noopener noreferrer"
           class="inline-flex items-center px-4 py-2.5 md:px-8 md:py-3 bg-primary text-white text-xs md:text-sm font-medium rounded-2xl hover:bg-primary-hover transition-all duration-200 whitespace-nowrap"
         >
           {{ $t('header.cta') }}
-        </NuxtLink>
+        </a>
       </div>
     </div>
   </header>

@@ -42,7 +42,7 @@
     }
   },
   "header": {
-    "cta": "Get Early Access"
+    "cta": "Download the App"
   },
   "hero": {
     "title": "Manage your beauty business",
@@ -58,10 +58,10 @@
     }
   },
   "waitlist": {
-    "label": "Join the waitlist",
-    "subtitle": "Get early access updates — and be first to know when the Android app launches.",
+    "label": "Android — coming soon",
+    "subtitle": "Leave your email and we'll notify you the moment Android launches.",
     "placeholder": "Your email address",
-    "submit": "Get early access",
+    "submit": "Notify Me",
     "submitting": "Sending...",
     "success": "You're on the list! We'll be in touch soon.",
     "duplicate": "This email is already on the list — talk soon!",

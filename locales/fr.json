@@ -42,7 +42,7 @@
     }
   },
   "header": {
-    "cta": "Accès anticipé"
+    "cta": "Télécharger l'app"
   },
   "hero": {
     "title": "Gérez votre activité beauté",
@@ -58,10 +58,10 @@
     }
   },
   "waitlist": {
-    "label": "Rejoignez la liste d'attente",
-    "subtitle": "Recevez les nouveautés en avant-première — et soyez les premiers informés du lancement de l'application Android.",
+    "label": "Android — bientôt disponible",
+    "subtitle": "Laissez votre e-mail et nous vous préviendrons dès le lancement sur Android.",
     "placeholder": "Votre adresse e-mail",
-    "submit": "Obtenir l'accès anticipé",
+    "submit": "Me notifier",
     "submitting": "Envoi en cours...",
     "success": "Vous êtes sur la liste ! Nous vous contacterons bientôt.",
     "duplicate": "Cette adresse est déjà sur la liste — à très bientôt !",
@@ -322,7 +322,7 @@
     "policy": "Politique de cookies"
   },
   "whatsapp": {
-    "tooltip": "Dites bonjour — nous lançons bientôt !",
+    "tooltip": "Bonjour ! Une question ? Écrivez-nous.",
     "ariaLabel": "Discuter avec nous sur WhatsApp",
     "message": "Bonjour ! Je souhaite savoir quand Estetika Professional sera disponible"
   },

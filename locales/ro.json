@@ -42,7 +42,7 @@
     }
   },
   "header": {
-    "cta": "Obtineti Acces Timpuriu"
+    "cta": "Descarca aplicatia"
   },
   "hero": {
     "title": "Gestionati-va afacerea beauty",
@@ -58,10 +58,10 @@
     }
   },
   "waitlist": {
-    "label": "Inscrieti-va pe lista de asteptare",
-    "subtitle": "Primiti noutati in avanpremiera — si aflati primii cand se lanseaza aplicatia Android.",
+    "label": "Android — in curand",
+    "subtitle": "Lasati-va emailul si va anuntam imediat ce se lanseaza pe Android.",
     "placeholder": "Adresa dvs. de email",
-    "submit": "Obtineti acces timpuriu",
+    "submit": "Anunta-ma",
     "submitting": "Se trimite...",
     "success": "Sunteti pe lista! Va vom contacta in curand.",
     "duplicate": "Acest email este deja pe lista — pe curand!",
