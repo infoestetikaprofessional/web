@@ -61,7 +61,7 @@
     "label": "Android — coming soon",
     "subtitle": "Leave your email and we'll notify you the moment Android launches.",
     "placeholder": "Your email address",
-    "submit": "Notify Me",
+    "submit": "Keep me posted",
     "submitting": "Sending...",
     "success": "You're on the list! We'll be in touch soon.",
     "duplicate": "This email is already on the list — talk soon!",
@@ -109,6 +109,7 @@
     }
   },
   "testimonials": {
+    "eyebrow": "What professionals say",
     "title": "Loved by beauty professionals",
     "subtitle": "PMU artists, trainers and studio owners already rely on Estetika Professional.",
     "items": [
@@ -117,28 +118,28 @@
         "name": "Mariana",
         "role": "PMU Trainer & International Champion",
         "city": "Netherlands",
-        "quote": "Having all consent forms stored digitally in the app has completely eliminated paperwork chaos in my salon. I no longer risk losing important documents, and every client file is securely organized and instantly accessible. It gives me peace of mind and keeps my whole workflow clean, structured, and professional."
+        "quote": "Having all consent forms stored digitally has completely eliminated paperwork chaos in my salon. Every client file is secure, organized, and instantly accessible."
       },
       {
         "photo": "ioana",
         "name": "Ioana Vărzaru",
         "role": "PMU Trainer & Beauty Business Advisor",
         "city": "Brussels",
-        "quote": "The built-in Fitzpatrick scale and pigment tracking system completely changed the way I work. I can now record exactly which pigments were used and where, so I always know precisely how each client was treated in previous sessions. This level of detail lets me improve results, ensure consistency, and work with much more confidence and precision."
+        "quote": "The Fitzpatrick scale and pigment tracking system changed the way I work. I always know exactly how each client was treated in previous sessions."
       },
       {
         "photo": "lilia",
         "name": "Lilia Caraush",
         "role": "PMU Master & Educator",
         "city": "",
-        "quote": "With this app, I save around 20 minutes per client, which is extremely valuable in my daily work. All client data is fully digital and instantly accessible, letting me see each client's full history in seconds. It significantly streamlines my workflow, improves organization, and gives me complete control over every appointment and detail."
+        "quote": "I save around 20 minutes per client. All data is digital and instantly accessible — full history in seconds. It gave me complete control over every appointment."
       },
       {
         "photo": "teodora",
         "name": "Teodora Drăghici",
         "role": "PMU Events Organizer",
         "city": "",
-        "quote": "I work with beauty technicians and I know how important it is to keep schedules and client records organized in a digital format. Estetika Professional is a real support in this process."
+        "quote": "I work with beauty technicians and I know how important organized digital records are. Estetika Professional is a real support in that process."
       }
     ]
   },
@@ -306,6 +307,8 @@
     }
   },
   "footer": {
+    "community": "Community",
+    "connectTitle": "Let's connect",
     "tagline": "Manage your beauty business with confidence.",
     "legal": "Legal",
     "privacyPolicy": "Privacy Policy",
@@ -322,7 +325,7 @@
     "policy": "Cookie Policy"
   },
   "whatsapp": {
-    "tooltip": "Say hi — we're launching soon! 🚀",
+    "tooltip": "Hi! 🤍 Got a question? We're here.",
     "ariaLabel": "Chat with us on WhatsApp",
     "message": "Hi! I'd like to know when Estetika Professional launches"
   },
