@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "home": {
+      "title": "Estetika Professional — Aplicatie de Management pentru Afaceri Beauty",
+      "description": "Gestionati clientii, programarile, formularele digitale de consimtamant, istoricul medical si portofoliile. Construita pentru artisti PMU, tehnicieni gene si esteticienti.",
+      "og": {
+        "title": "Estetika Professional — Aplicatie de Management pentru Afaceri Beauty",
+        "description": "Gestionati clientii, programarile, formularele digitale de consimtamant, istoricul medical si portofoliile. Construita pentru artisti PMU, tehnicieni gene si esteticienti."
+      }
+    },
+    "privacy": {
+      "title": "Politica de Confidentialitate — Estetika Professional",
+      "description": "Cum colecteaza, utilizeaza si protejeaza Estetika Professional datele dumneavoastra cu caracter personal.",
+      "og": {
+        "title": "Politica de Confidentialitate — Estetika Professional",
+        "description": "Cum colecteaza, utilizeaza si protejeaza Estetika Professional datele dumneavoastra cu caracter personal."
+      }
+    },
+    "terms": {
+      "title": "Termeni si Conditii — Estetika Professional",
+      "description": "Termenii si conditiile de utilizare a serviciilor Estetika Professional.",
+      "og": {
+        "title": "Termeni si Conditii — Estetika Professional",
+        "description": "Termenii si conditiile de utilizare a serviciilor Estetika Professional."
+      }
+    },
+    "cookie": {
+      "title": "Politica Cookie — Estetika Professional",
+      "description": "Cum utilizeaza Estetika Professional cookie-urile si tehnologiile similare.",
+      "og": {
+        "title": "Politica Cookie — Estetika Professional",
+        "description": "Cum utilizeaza Estetika Professional cookie-urile si tehnologiile similare."
+      }
+    },
+    "thankYou": {
+      "title": "Descarca Estetika Professional",
+      "description": "Descarca aplicatia si incepe sa-ti gestionezi afacerea de frumusete astazi.",
+      "og": {
+        "title": "Descarca Estetika Professional",
+        "description": "Descarca aplicatia si incepe sa-ti gestionezi afacerea de frumusete astazi."
+      }
+    }
+  },
+  "header": {
+    "cta": "Obtineti Acces Timpuriu"
+  },
+  "hero": {
+    "title": "Gestionati-va afacerea beauty",
+    "titleHighlight": "fara haosul programarilor",
+    "subtitle": "Programari, formulare de consimtamant, istoric medical si managementul clientilor — totul intr-o singura aplicatie sigura, construita pentru profesionisti din industria beauty.",
+    "download": {
+      "ios": "Descarca pentru iOS"
+    },
+    "badges": {
+      "gdpr": "Conform GDPR",
+      "offline": "Functioneaza Offline",
+      "platforms": "iOS si Android"
+    }
+  },
+  "waitlist": {
+    "label": "Inscrieti-va pe lista de asteptare",
+    "subtitle": "Primiti noutati in avanpremiera — si aflati primii cand se lanseaza aplicatia Android.",
+    "placeholder": "Adresa dvs. de email",
+    "submit": "Obtineti acces timpuriu",
+    "submitting": "Se trimite...",
+    "success": "Sunteti pe lista! Va vom contacta in curand.",
+    "duplicate": "Acest email este deja pe lista — pe curand!",
+    "invalidEmail": "Va rugam sa introduceti o adresa de email valida.",
+    "error": "A aparut o eroare. Va rugam sa incercati din nou mai tarziu.",
+    "gdprNote": "✓ Fara spam. Dezabonare oricand. Conform GDPR.",
+    "androidCta": "Android — lista de asteptare"
+  },
+  "features": {
+    "title": "Tot ce aveti nevoie pentru a va conduce afacerea beauty",
+    "subtitle": "Construita special pentru artisti PMU, tehnicieni gene si esteticienti.",
+    "seeInAction": "Vedeti aplicatia in actiune",
+    "items": {
+      "clientManagement": {
+        "title": "Managementul Clientilor",
+        "description": "Fiecare detaliu al clientului, preferintele si istoricul vizitelor — la un singur tap distanta."
+      },
+      "smartScheduling": {
+        "title": "Programare Inteligenta",
+        "description": "Programati consultatii, urmariti disponibilitatea, fara dublarea rezervarilor."
+      },
+      "consentForms": {
+        "title": "Formulare Digitale de Consimtamant",
+        "description": "Formulare personalizate cu semnaturi digitale si generare PDF cu brandul dumneavoastra."
+      },
+      "medicalHistory": {
+        "title": "Istoric Medical",
+        "description": "Urmariti alergiile si afectiunile cu o pista de audit completa."
+      },
+      "portfolio": {
+        "title": "Galerie Portofoliu",
+        "description": "Prezentati-va cele mai bune lucrari cu seturi de fotografii inainte si dupa."
+      },
+      "offlineMode": {
+        "title": "Functioneaza Offline",
+        "description": "Functionalitate completa chiar si fara internet — sincronizare cand reveniti online."
+      }
+    },
+    "screens": {
+      "dashboard": "Panou de control",
+      "clientProfile": "Profil client",
+      "consent": "Consimtamant",
+      "scheduling": "Programare",
+      "clients": "Clienti"
+    }
+  },
+  "testimonials": {
+    "title": "Apreciat de profesionistii din beauty",
+    "subtitle": "Artisti PMU, traineri si proprietari de saloane se bazeaza deja pe Estetika Professional.",
+    "items": [
+      {
+        "photo": "mariana",
+        "name": "Mariana",
+        "role": "Trainer PMU & Campioana internationala",
+        "city": "Olanda",
+        "quote": "Faptul ca toate formularele de consimtamant sunt stocate digital in aplicatie a eliminat complet haosul hartiilor din salonul meu. Nu mai risc sa pierd documente importante, iar fiecare dosar de client este organizat in siguranta si accesibil instant. Imi da liniste si pastreaza intregul flux de lucru curat, structurat si profesionist."
+      },
+      {
+        "photo": "ioana",
+        "name": "Ioana Vărzaru",
+        "role": "Trainer PMU & Consultant beauty",
+        "city": "Bruxelles",
+        "quote": "Scala Fitzpatrick integrata si sistemul de urmarire a pigmentilor mi-au schimbat complet modul de lucru. Acum pot inregistra exact ce pigmenti au fost folositi si unde, asa ca stiu mereu precis cum a fost tratat fiecare client in sesiunile anterioare. Acest nivel de detaliu imi permite sa imbunatatesc rezultatele, sa asigur consistenta si sa lucrez cu mult mai multa incredere si precizie."
+      },
+      {
+        "photo": "lilia",
+        "name": "Lilia Caraush",
+        "role": "Maestru PMU & Formator",
+        "city": "",
+        "quote": "Cu aceasta aplicatie economisesc aproximativ 20 de minute per client, ceea ce este extrem de valoros in munca mea zilnica. Toate datele clientilor sunt complet digitale si accesibile instant, permitandu-mi sa vad istoricul complet al fiecarui client in cateva secunde. Imi simplifica semnificativ munca, imbunatateste organizarea si imi ofera control complet asupra fiecarei programari si fiecarui detaliu."
+      },
+      {
+        "photo": "teodora",
+        "name": "Teodora Drăghici",
+        "role": "Organizator evenimente PMU",
+        "city": "",
+        "quote": "Lucrez cu tehnicieni in domeniul beauty si stiu cat de important este sa pastrezi programarile si fisele clientilor organizate in format digital. Estetika Professional vine ca un real sprijin in acest proces."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Incepeti in trei pasi simpli",
+    "steps": {
+      "createAccount": {
+        "title": "Creati-va Contul",
+        "description": "Inregistrati-va in mai putin de doua minute. Nu este necesar un card de credit."
+      },
+      "setupPractice": {
+        "title": "Configurati-va Practica",
+        "description": "Importati sabloane de servicii, personalizati formularele de consimtamant, adaugati brandul dumneavoastra."
+      },
+      "focusClients": {
+        "title": "Concentrati-va pe Clientii Dumneavoastra",
+        "description": "Noi ne ocupam de documente, programari si conformitate. Dumneavoastra faceti ceea ce iubiti."
+      }
+    }
+  },
+  "trustBadges": {
+    "title": "Construita cu securitatea si conformitatea la baza",
+    "items": {
+      "gdpr": {
+        "title": "Conform GDPR",
+        "description": "Datele dumneavoastra protejate conform reglementarilor UE"
+      },
+      "encrypted": {
+        "title": "Criptat AES-256",
+        "description": "Date criptate in tranzit si in repaus"
+      },
+      "backup": {
+        "title": "Backup in Cloud",
+        "description": "Backup-uri automate zilnice, fara pierderi de date"
+      },
+      "madeInBelgium": {
+        "title": "Fabricat in Belgia",
+        "description": "Companie europeana, gazduire europeana a datelor"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Preturi simple si transparente",
+    "subtitle": "Tot ce aveti nevoie pentru a va gestiona afacerea beauty. Fara taxe ascunse, anulati oricand.",
+    "toggle": {
+      "monthly": "Lunar",
+      "yearly": "Anual",
+      "label": "Comutati perioada de facturare"
+    },
+    "plan": {
+      "name": "Estetika Pro",
+      "subtitle": "Setul complet de instrumente pentru profesionistii beauty",
+      "badge": "Oferta Introductiva",
+      "monthlyPeriod": "/luna",
+      "yearlyPeriod": "/an",
+      "freeTrial": "14 zile de incercare gratuita incluse",
+      "introOffer": "€6,99/luna pentru primele 3 luni, apoi €9,99/luna",
+      "yearlySavings": "Economisiti 50% fata de abonamentul lunar",
+      "downloadIos": "Descarca din App Store",
+      "features": {
+        "clients": "Clienti si servicii nelimitate",
+        "scheduling": "Programare programari si notificari",
+        "consentBuilder": "Constructor personalizat de formulare de consimtamant + generare PDF",
+        "medicalHistory": "Urmarirea istoricului medical cu pista de audit",
+        "treatmentNotes": "Note de tratament cu fotografii inainte/dupa",
+        "portfolio": "Galerie portofoliu",
+        "offline": "Mod offline — lucrati oriunde",
+        "support": "Suport prioritar (raspuns in 24h)"
+      }
+    }
+  },
+  "comparison": {
+    "title": "Comparati planurile in detaliu",
+    "featureColumn": "Functionalitate",
+    "soon": "In curand",
+    "unlimited": "Nelimitat",
+    "categories": {
+      "clientManagement": {
+        "name": "Managementul Clientilor",
+        "features": {
+          "maxClients": "Clienti maximi",
+          "customFields": "Campuri personalizate"
+        }
+      },
+      "consentForms": {
+        "name": "Formulare de Consimtamant",
+        "features": {
+          "systemTemplates": "Sabloane sistem",
+          "customBuilder": "Constructor personalizat",
+          "pdfGeneration": "Generare PDF"
+        }
+      },
+      "medicalHistory": {
+        "name": "Istoric Medical",
+        "features": {
+          "fullTracking": "Urmarire completa",
+          "auditTrail": "Pista de audit"
+        }
+      },
+      "appointments": {
+        "name": "Programari",
+        "features": {
+          "basicScheduling": "Programare de baza",
+          "calendarView": "Vizualizare calendar"
+        }
+      },
+      "portfolio": {
+        "name": "Portofoliu",
+        "features": {
+          "maxPhotos": "Fotografii maxime",
+          "beforeAfterSets": "Seturi inainte/dupa"
+        }
+      },
+      "technical": {
+        "name": "Tehnic",
+        "features": {
+          "offlineMode": "Mod offline",
+          "realtimeSync": "Sincronizare in timp real"
+        }
+      },
+      "support": {
+        "name": "Suport",
+        "features": {
+          "responseTime": "Timp de raspuns",
+          "priority": "Prioritate",
+          "onboardingCall": "Apel de onboarding"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Intrebari frecvente",
+    "items": {
+      "launch": {
+        "question": "Cand se lanseaza aplicatia?",
+        "answer": "Suntem in faza finala de testare beta. Inregistrati-va cu adresa de email pentru a fi primii care afla cand lansam pe App Store si Google Play."
+      },
+      "pricing": {
+        "question": "Cat va costa?",
+        "answer": "Estetika Pro costa 9,99 EUR/luna dupa o perioada introductiva de 6,99 EUR/luna pentru primele 3 luni. Fara taxe ascunse, anulati oricand."
+      },
+      "trial": {
+        "question": "Pot incerca inainte de a ma abona?",
+        "answer": "Da! Fiecare abonament include o perioada de proba gratuita de 14 zile. Inregistrati-va acum pentru a va asigura locul."
+      },
+      "security": {
+        "question": "Datele mele sunt in siguranta?",
+        "answer": "Absolut. Toate datele sunt criptate AES-256, conforme GDPR si gazduite pe servere europene. Informatiile clientilor dumneavoastra sunt in siguranta."
+      },
+      "switchPlans": {
+        "question": "Pot schimba planul mai tarziu?",
+        "answer": "Da, puteti face upgrade sau downgrade oricand. Modificarile intra in vigoare la urmatorul ciclu de facturare."
+      },
+      "contact": {
+        "question": "Cum pot lua legatura?",
+        "answer": "Ne puteti contacta oricand prin WhatsApp (apasati bula verde din colt) sau ne puteti trimite un email la support{'@'}estetikaprofessional.com."
+      }
+    }
+  },
+  "finalCta": {
+    "title": "Sunteti gata sa transformati modul in care va conduceti afacerea beauty?",
+    "subtitle": "Descarcati aplicatia si incepeti sa va gestionati afacerea beauty astazi.",
+    "download": {
+      "ios": "Descarca pentru iOS"
+    }
+  },
+  "footer": {
+    "tagline": "Gestionati-va afacerea beauty cu incredere.",
+    "legal": "Legal",
+    "privacyPolicy": "Politica de Confidentialitate",
+    "termsOfService": "Termeni si Conditii",
+    "cookiePolicy": "Politica Cookie",
+    "contact": "Contact",
+    "builtIn": "Construit in Bruxelles",
+    "copyright": "© 2026 Estetika Professional. Toate drepturile rezervate."
+  },
+  "cookieConsent": {
+    "message": "Folosim doar cookie-uri esentiale pentru functionarea site-ului — fara trackere publicitare. Aflati mai multe in",
+    "accept": "Accept",
+    "decline": "Refuz",
+    "policy": "Politica Cookie"
+  },
+  "whatsapp": {
+    "tooltip": "Buna ziua — lansam curand! 🚀",
+    "ariaLabel": "Discutati cu noi pe WhatsApp",
+    "message": "Buna ziua! As dori sa aflu cand se lanseaza Estetika Professional"
+  },
+  "legal": {
+    "tableOfContents": "Cuprins",
+    "privacy": {
+      "title": "Politica de Confidentialitate",
+      "lastUpdated": "Ultima actualizare: Martie 2026",
+      "intro": "Aceasta Politica de Confidentialitate descrie modul in care Estetika Professional (\"noi\", \"al nostru\") colecteaza, utilizeaza si protejeaza datele dumneavoastra cu caracter personal atunci cand utilizati aplicatia noastra mobila si site-ul web.",
+      "toc": {
+        "controller": "1. Operatorul de Date",
+        "dataCollected": "2. Datele pe Care le Colectam",
+        "legalBasis": "3. Temeiul Juridic al Prelucrarii",
+        "specialCategories": "4. Categorii Speciale de Date",
+        "howWeUse": "5. Cum Utilizam Datele Dumneavoastra",
+        "dataProcessors": "6. Procesatori de Date si Terte Parti",
+        "dataRetention": "7. Retentia Datelor",
+        "yourRights": "8. Drepturile Dumneavoastra in Temeiul GDPR",
+        "international": "9. Transferuri Internationale de Date",
+        "security": "10. Securitatea Datelor",
+        "children": "11. Confidentialitatea Copiilor",
+        "changes": "12. Modificari ale Acestei Politici",
+        "contact": "13. Contactati-ne"
+      },
+      "sections": {
+        "controller": {
+          "heading": "1. Operatorul de Date",
+          "body": "<p>Operatorul de date responsabil pentru datele dumneavoastra cu caracter personal este Estetika Professional, o companie inregistrata in Belgia.</p><p class=\"mt-2\">Contact responsabil cu protectia datelor: <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></p>"
+        },
+        "dataCollected": {
+          "heading": "2. Datele pe Care le Colectam",
+          "body": "<h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.1 Date de Cont (Practicieni)</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Nume complet, adresa de email, numar de telefon</li><li>Denumirea afacerii, specialitatea (de ex., artist PMU, tehnician gene, estetician)</li><li>Adresa afacerii, codul TVA (daca este aplicabil)</li><li>Fotografie de profil, certificari profesionale</li><li>Informatii de plata si facturare (procesate de Stripe)</li></ul><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.2 Date despre Clienti (Introduse de Practicieni)</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Numele clientului, email, numar de telefon, data nasterii</li><li>Istoricul tratamentelor si inregistrarile programarilor</li><li>Formulare de consimtamant digitale semnate cu marci temporale</li><li>Fotografii de portofoliu (imagini inainte si dupa)</li></ul><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.3 Date Medicale si de Sanatate</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Alergii si sensibilitati ale pielii</li><li>Medicamente curente</li><li>Afectiuni ale pielii si antecedente medicale relevante</li><li>Starea de sarcina sau alaptare</li><li>Reactii anterioare la tratamente</li></ul><p class=\"text-sm text-gray-500 mt-2 italic\">Aceste date constituie date din categorii speciale conform Articolului 9 din GDPR si sunt prelucrate cu consimtamant explicit.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.4 Date Tehnice</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Tipul dispozitivului, sistemul de operare, versiunea aplicatiei</li><li>Adresa IP (anonimizata pentru analiza)</li><li>Tipare de utilizare si date despre interactiunea cu functiile</li><li>Rapoarte de erori si metrici de performanta</li></ul>"
+        },
+        "legalBasis": {
+          "heading": "3. Temeiul Juridic al Prelucrarii",
+          "body": "<p class=\"mb-3\">Prelucram datele dumneavoastra cu caracter personal in baza urmatoarelor temeiuri juridice definite in Articolul 6(1) din GDPR:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Executarea contractului (Art. 6(1)(b)):</strong> Prelucrarea necesara pentru a furniza serviciul nostru, a gestiona abonamentul dumneavoastra si a livra functionalitatea aplicatiei.</li><li><strong>Interesul legitim (Art. 6(1)(f)):</strong> Analiza pentru imbunatatirea serviciului, prevenirea fraudei si securitatea aplicatiei. Echilibram acest interes cu drepturile dumneavoastra la confidentialitate.</li><li><strong>Consimtamantul (Art. 6(1)(a)):</strong> Comunicari de marketing, cookie-uri optionale si orice prelucrare pentru care solicitam in mod specific consimtamantul dumneavoastra.</li><li><strong>Obligatia legala (Art. 6(1)(c)):</strong> Inregistrari fiscale, conformitate cu cerintele de reglementare belgiene si europene.</li></ul>"
+        },
+        "specialCategories": {
+          "heading": "4. Categorii Speciale de Date",
+          "body": "<p>Istoricul medical si datele legate de sanatate introduse in Estetika Professional constituie \"date din categorii speciale\" conform Articolului 9 din GDPR. Aceste date sunt prelucrate exclusiv in baza <strong>consimtamantului explicit (Art. 9(2)(a))</strong> furnizat de client prin sistemul nostru digital de formulare de consimtamant. Practicianul (utilizatorul nostru) actioneaza ca operator asociat pentru aceste date in contextul relatiei sale cu clientul.</p>"
+        },
+        "howWeUse": {
+          "heading": "5. Cum Utilizam Datele Dumneavoastra",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Furnizarea si mentinerea aplicatiei Estetika Professional</li><li>Procesarea abonamentelor si platilor</li><li>Stocarea si organizarea dosarelor clientilor pentru practicieni</li><li>Generarea si stocarea in siguranta a formularelor digitale de consimtamant</li><li>Trimiterea de emailuri tranzactionale (confirmari, chitante, memento-uri)</li><li>Imbunatatirea functionalitatii aplicatiei prin analiza anonimizata a utilizarii</li><li>Furnizarea de asistenta pentru clienti</li><li>Respectarea obligatiilor legale</li></ul>"
+        },
+        "dataProcessors": {
+          "heading": "6. Procesatori de Date si Terte Parti",
+          "body": "<p class=\"mb-3\">Utilizam urmatorii procesatori teti, toti conformi GDPR cu Acorduri de Prelucrare a Datelor (DPA) corespunzatoare incheiate:</p><div class=\"overflow-x-auto\"><table class=\"w-full text-sm\"><thead><tr class=\"border-b border-border\"><th class=\"text-left py-2 pr-4 font-semibold text-gray-700\">Procesator</th><th class=\"text-left py-2 pr-4 font-semibold text-gray-700\">Scop</th><th class=\"text-left py-2 font-semibold text-gray-700\">Locatia Datelor</th></tr></thead><tbody class=\"text-gray-600\"><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Supabase (US, servere EU)</td><td class=\"py-2 pr-4\">Baza de date, autentificare, stocare fisiere</td><td class=\"py-2\">UE (Frankfurt)</td></tr><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Stripe (US, EU)</td><td class=\"py-2 pr-4\">Procesarea platilor</td><td class=\"py-2\">UE</td></tr><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Resend (US)</td><td class=\"py-2 pr-4\">Livrarea emailurilor tranzactionale</td><td class=\"py-2\">US (SCC in vigoare)</td></tr><tr><td class=\"py-2 pr-4\">Plausible Analytics (EU)</td><td class=\"py-2 pr-4\">Analiza web prietenoasa cu confidentialitatea</td><td class=\"py-2\">UE</td></tr></tbody></table></div>"
+        },
+        "dataRetention": {
+          "heading": "7. Retentia Datelor",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Date de cont:</strong> Pastrate pe durata abonamentului dumneavoastra plus 30 de zile dupa stergerea contului.</li><li><strong>Dosarele clientilor si formularele de consimtamant:</strong> Pastrate cat timp contul practicianului este activ. Practicienii pot sterge dosarele individuale ale clientilor oricand.</li><li><strong>Istoricul medical:</strong> Aceeasi retentie ca si dosarele clientilor. Sub rezerva oricaror cerinte belgiene aplicabile privind pastrarea inregistrarilor medicale.</li><li><strong>Inregistrari de plata:</strong> Pastrate timp de 7 ani conform legislatiei fiscale belgiene.</li><li><strong>Date analitice:</strong> Anonimizate si pastrate pe termen nedefinit (fara date cu caracter personal).</li></ul>"
+        },
+        "yourRights": {
+          "heading": "8. Drepturile Dumneavoastra in Temeiul GDPR",
+          "body": "<p class=\"mb-3\">In temeiul Regulamentului General privind Protectia Datelor, aveti urmatoarele drepturi:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Dreptul de acces (Art. 15):</strong> Solicitati o copie a tuturor datelor cu caracter personal pe care le detinem despre dumneavoastra.</li><li><strong>Dreptul la rectificare (Art. 16):</strong> Solicitati corectarea datelor cu caracter personal inexacte.</li><li><strong>Dreptul la stergere (Art. 17):</strong> Solicitati stergerea datelor dumneavoastra cu caracter personal (\"dreptul de a fi uitat\").</li><li><strong>Dreptul la restrictionarea prelucrarii (Art. 18):</strong> Solicitati limitarea modului in care utilizam datele dumneavoastra.</li><li><strong>Dreptul la portabilitatea datelor (Art. 20):</strong> Primiti datele dumneavoastra intr-un format structurat, lizibil de catre masina.</li><li><strong>Dreptul la opozitie (Art. 21):</strong> Opuneti-va prelucrarii bazate pe interesul legitim sau in scopuri de marketing direct.</li><li><strong>Dreptul de a retrage consimtamantul:</strong> Retrageti consimtamantul oricand, fara a afecta legalitatea prelucrarii anterioare.</li></ul><p class=\"mt-3\">Pentru a exercita oricare dintre aceste drepturi, contactati-ne la <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a>. Vom raspunde in termen de 30 de zile, conform cerintelor GDPR.</p><p class=\"mt-2\">Aveti de asemenea dreptul de a depune o plangere la Autoritatea Belgiana pentru Protectia Datelor (Autoriteit Persoonsgegevens / Autorité de protection des données): <a href=\"https://www.dataprotectionauthority.be\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">www.dataprotectionauthority.be</a></p>"
+        },
+        "international": {
+          "heading": "9. Transferuri Internationale de Date",
+          "body": "Datele dumneavoastra sunt stocate in principal pe servere cu sediul in UE. Acolo unde transferul de date catre tari terte este necesar (de ex., anumiti sub-procesatori cu sediul in SUA), asiguram o protectie adecvata prin Clauzele Contractuale Standard ale UE (SCC) sau decizii de adecvare conform Capitolului V din GDPR. Nu transferam date din categorii speciale (sanatate) in afara UE."
+        },
+        "security": {
+          "heading": "10. Securitatea Datelor",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Criptare AES pe 256 de biti pentru datele in repaus</li><li>Criptare TLS 1.3 pentru datele in tranzit</li><li>Securitate la nivel de rand (RLS) pe toate tabelele bazei de date</li><li>Audituri de securitate regulate si teste de penetrare</li><li>Autentificare securizata cu hashing parola bcrypt</li><li>Backup-uri automate cu recuperare la un moment dat</li></ul>"
+        },
+        "children": {
+          "heading": "11. Confidentialitatea Copiilor",
+          "body": "Estetika Professional este conceputa pentru practicieni profesionisti din industria beauty si nu este destinata persoanelor cu varsta sub 18 ani. Nu colectam cu buna stiinta date cu caracter personal de la copii. Daca dosarele clientilor includ minori (de ex., consimtamantul parental pentru tratamente), practicianul este responsabil pentru obtinerea consimtamantului parintesc sau al tutorelui corespunzator."
+        },
+        "changes": {
+          "heading": "12. Modificari ale Acestei Politici",
+          "body": "Putem actualiza aceasta Politica de Confidentialitate din timp in timp. Va vom notifica cu privire la modificarile semnificative prin email sau notificare in aplicatie cu cel putin 30 de zile inainte ca acestea sa intre in vigoare. Utilizarea continua a serviciului dupa modificari constituie acceptarea politicii actualizate."
+        },
+        "contact": {
+          "heading": "13. Contactati-ne",
+          "body": "<p>Pentru orice intrebari legate de confidentialitate sau pentru a va exercita drepturile privind datele:</p><ul class=\"text-sm text-gray-600 mt-2 space-y-1\"><li>Email: <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></li><li>General: <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    },
+    "terms": {
+      "title": "Termeni si Conditii",
+      "lastUpdated": "Ultima actualizare: Martie 2026",
+      "intro": "Acesti Termeni si Conditii (\"Termeni\") reglementeaza utilizarea dumneavoastra a aplicatiei mobile si a site-ului web Estetika Professional (\"Serviciul\") operat de Estetika Professional (\"noi\", \"al nostru\"), o companie inregistrata in Belgia.",
+      "toc": {
+        "acceptance": "1. Acceptarea Termenilor",
+        "serviceDescription": "2. Descrierea Serviciului",
+        "account": "3. Inregistrarea Contului",
+        "subscriptions": "4. Abonamente si Preturi",
+        "foundersClub": "5. Termenii Founders Club",
+        "payments": "6. Plati si Facturare",
+        "refunds": "7. Rambursari si Anulari",
+        "acceptableUse": "8. Utilizare Acceptabila",
+        "dataResponsibility": "9. Responsabilitatea privind Datele",
+        "intellectualProperty": "10. Proprietatea Intelectuala",
+        "liability": "11. Limitarea Raspunderii",
+        "termination": "12. Incetarea",
+        "governingLaw": "13. Legea Aplicabila si Litigii",
+        "changesTerms": "14. Modificari ale Acestor Termeni",
+        "contactTerms": "15. Informatii de Contact"
+      },
+      "sections": {
+        "acceptance": {
+          "heading": "1. Acceptarea Termenilor",
+          "body": "Prin crearea unui cont, descarcarea aplicatiei sau utilizarea oricarei parti a Serviciului, sunteti de acord sa respectati acesti Termeni. Daca nu sunteti de acord, nu trebuie sa utilizati Serviciul. Acesti Termeni constituie un acord obligatoriu din punct de vedere juridic intre dumneavoastra si Estetika Professional."
+        },
+        "serviceDescription": {
+          "heading": "2. Descrierea Serviciului",
+          "body": "<p>Estetika Professional furnizeaza o aplicatie mobila si servicii conexe pentru profesionistii din industria beauty, inclusiv, dar fara a se limita la:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1 mt-2\"><li>Managementul profilurilor clientilor si organizarea contactelor</li><li>Programarea consultatiilor si gestionarea calendarului</li><li>Crearea, personalizarea si colectarea semnaturilor pentru formularele digitale de consimtamant</li><li>Urmarirea istoricului medical si chestionarele de sanatate</li><li>Managementul portofoliului de tratamente si fotografiile inainte si dupa</li><li>Suport multilingv pentru practici internationale</li></ul><p class=\"mt-2\">Serviciul se afla in prezent in faza beta de pre-lansare. Functiile pot fi modificate, adaugate sau alterate in perioada beta. Vom comunica modificarile semnificative utilizatorilor beta in avans.</p>"
+        },
+        "account": {
+          "heading": "3. Inregistrarea Contului",
+          "body": "Trebuie sa aveti cel putin 18 ani si sa fiti un practician profesionist in industria beauty (sau reprezentant autorizat al unei afaceri beauty) pentru a crea un cont. Sunteti responsabil pentru mentinerea confidentialitatii acreditivelor dumneavoastra de cont si pentru toate activitatile din contul dumneavoastra. Trebuie sa furnizati informatii exacte, actuale si complete in timpul inregistrarii."
+        },
+        "subscriptions": {
+          "heading": "4. Abonamente si Preturi",
+          "body": "<p class=\"mb-2\">Oferim urmatoarele tipuri de planuri:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Founders Club (Pe viata):</strong> O plata unica pentru acces permanent. Limitat la 200 de locuri in total.</li><li><strong>Early Bird Anual:</strong> Abonament anual la un pret redus disponibil in perioada de pre-lansare.</li><li><strong>Planuri Standard:</strong> Planuri de abonament lunar si anual disponibile dupa lansarea publica la preturi normale.</li></ul><p class=\"mt-2\">Toate preturile sunt afisate in Euro (EUR) si includ TVA acolo unde este aplicabil conform reglementarilor belgiene si europene privind TVA.</p>"
+        },
+        "foundersClub": {
+          "heading": "5. Termenii Founders Club",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Calitatea de membru Founders Club ofera acces pe viata la functiile incluse in nivelul achizitionat (Solo, Studio sau Clinic) la momentul achizitiei, plus toate actualizarile viitoare.</li><li>Accesul pe viata inseamna durata de functionare a Serviciului. Daca Estetika Professional inceteaza operatiunile, vom furniza un preaviz de cel putin 6 luni si un export complet al datelor.</li><li>Locurile in Founders Club sunt limitate la 200 in total. Odata ce toate locurile sunt ocupate, aceasta oferta nu va mai fi disponibila.</li></ul>"
+        },
+        "payments": {
+          "heading": "6. Plati si Facturare",
+          "body": "Toate platile sunt procesate in siguranta prin Stripe. Nu stocam detaliile complete ale cardului dumneavoastra de plata pe serverele noastre. Pentru abonamentele anuale, facturarea are loc la inceputul fiecarui ciclu de facturare. Va vom notifica cu cel putin 14 zile inainte de orice crestere de pret la planul dumneavoastra actual."
+        },
+        "refunds": {
+          "heading": "7. Rambursari si Anulari",
+          "body": "<h3 class=\"text-base font-semibold text-gray-700 mt-3 mb-2 font-sans\">7.1 Dreptul UE de Retragere</h3><p>In temeiul Directivei UE privind Drepturile Consumatorilor 2011/83/UE, aveti dreptul de retragere de 14 zile de la data achizitiei. Pentru a exercita acest drept, contactati-ne la <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a> cu detaliile comenzii dumneavoastra. Rambursarile vor fi procesate la metoda de plata originala in termen de 14 zile de la primirea cererii de retragere.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">7.2 Abonamente Anuale</h3><p>Puteti anula abonamentul anual oricand. Veti pastra accesul la Serviciu pana la sfarsitul perioadei de facturare curente. Nu se acorda rambursari partiale pentru perioada de abonament ramasa dupa fereastra de retragere de 14 zile.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">7.3 Founders Club</h3><p>Achizitiile lifetime Founders Club sunt eligibile pentru o rambursare completa in termen de 14 zile de la achizitie (dreptul UE de retragere). Dupa 14 zile, achizitiile Founders Club nu sunt rambursabile.</p>"
+        },
+        "acceptableUse": {
+          "heading": "8. Utilizare Acceptabila",
+          "body": "<p class=\"mb-2\">Sunteti de acord sa nu:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Utilizati Serviciul in alt scop decat managementul legitim al practicii beauty/estetice</li><li>Stocati date care incalca legile aplicabile sau drepturile tertilor</li><li>Incercati sa eludati masurile de securitate sau sa accesati datele altor utilizatori</li><li>Efectuati inginerie inversa, decompilati sau dezasamblati aplicatia</li><li>Utilizati sisteme automate pentru a accesa Serviciul (scraping, boti)</li><li>Impartasiti acreditivele contului dumneavoastra cu parti neautorizate</li></ul>"
+        },
+        "dataResponsibility": {
+          "heading": "9. Responsabilitatea privind Datele",
+          "body": "<p>In calitate de practician, sunteti responsabil pentru acuratetea si legalitatea datelor clientilor pe care le introduceti in Serviciu. Trebuie sa obtineti consimtamantul corespunzator de la clientii dumneavoastra inainte de a introduce datele lor cu caracter personal, inclusiv istoricul medical si fotografiile. Actionati ca operator de date pentru datele clientilor dumneavoastra, iar Estetika Professional actioneaza ca imputernicit al dumneavoastra. Responsabilitatile noastre sunt detaliate in Politica noastra de Confidentialitate si in Acordul de Prelucrare a Datelor disponibil la cerere.</p>"
+        },
+        "intellectualProperty": {
+          "heading": "10. Proprietatea Intelectuala",
+          "body": "Aplicatia, site-ul web, brandul, designul si toata proprietatea intelectuala asociata Estetika Professional sunt detinute de Estetika Professional. Abonamentul dumneavoastra va acorda o licenta limitata, neexclusiva, netransferabila pentru a utiliza Serviciul. Pastrati dreptul de proprietate asupra intregului continut pe care il incarcati (fotografii, text, formulare)."
+        },
+        "liability": {
+          "heading": "11. Limitarea Raspunderii",
+          "body": "<p>In masura maxima permisa de legea belgiana si europeana, Estetika Professional nu va fi raspunzatoare pentru niciun fel de daune indirecte, incidentale, speciale, consecutive sau punitive rezultate din utilizarea dumneavoastra a Serviciului. Raspunderea noastra totala pentru orice pretentie nu va depasi suma pe care ne-ati platit-o in cele 12 luni precedente pretentiei. Aceasta limitare nu se aplica raspunderii care nu poate fi exclusa sau limitata conform legislatiei aplicabile (de ex., frauda, neglijenta grava).</p><p class=\"mt-2\">Serviciul nu inlocuieste sfaturile medicale sau juridice profesionale. Formularele de consimtamant generate de Serviciu sunt instrumente pentru a va sprijini practica, dar valabilitatea lor juridica poate varia in functie de jurisdictie.</p>"
+        },
+        "termination": {
+          "heading": "12. Incetarea",
+          "body": "Puteti inchide contul dumneavoastra oricand prin setarile aplicatiei sau contactandu-ne. Putem inchide sau suspenda contul dumneavoastra pentru incalcarea acestor Termeni, cu preaviz prealabil, cu exceptia cazurilor de incalcare grava (frauda, activitate ilegala). La incetare, puteti exporta datele dumneavoastra in termen de 30 de zile inainte ca acestea sa fie sterse definitiv."
+        },
+        "governingLaw": {
+          "heading": "13. Legea Aplicabila si Litigii",
+          "body": "<p>Acesti Termeni sunt reglementati de legislatia belgiana, fara a tine seama de prevederile privind conflictul de legi. Orice litigii vor fi supuse instantelor competente din Belgia. Pentru consumatorii din UE, nimic din acesti Termeni nu afecteaza drepturile dumneavoastra legale conform legislatiei UE privind protectia consumatorilor, inclusiv dreptul de a formula pretentii in instantele din tara de resedinta. Puteti utiliza si platforma UE de Solutionare Online a Litigiilor: <a href=\"https://ec.europa.eu/consumers/odr\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">https://ec.europa.eu/consumers/odr</a></p>"
+        },
+        "changesTerms": {
+          "heading": "14. Modificari ale Acestor Termeni",
+          "body": "Ne rezervam dreptul de a modifica acesti Termeni. Modificarile materiale vor fi comunicate prin email sau notificare in aplicatie cu cel putin 30 de zile in avans. Utilizarea continua a Serviciului dupa intrarea in vigoare a modificarilor constituie acceptare. Daca nu sunteti de acord cu Termenii actualizati, puteti inchide contul dumneavoastra."
+        },
+        "contactTerms": {
+          "heading": "15. Informatii de Contact",
+          "body": "<ul class=\"text-sm text-gray-600 space-y-1\"><li>Email: <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    },
+    "cookie": {
+      "title": "Politica Cookie",
+      "lastUpdated": "Ultima actualizare: Martie 2026",
+      "intro": "Aceasta Politica Cookie explica modul in care Estetika Professional (\"noi\", \"al nostru\") utilizeaza cookie-urile si tehnologiile similare de urmarire pe site-ul nostru web (estetikaprofessional.com).",
+      "toc": {
+        "whatAreCookies": "1. Ce Sunt Cookie-urile",
+        "cookiesWeUse": "2. Cookie-urile pe Care le Utilizam",
+        "strictlyNecessary": "3. Cookie-uri Strict Necesare",
+        "analyticsCookies": "4. Analiza",
+        "thirdParty": "5. Cookie-uri Terte",
+        "managingCookies": "6. Gestionarea Preferintelor Cookie",
+        "cookieChanges": "7. Modificari ale Acestei Politici",
+        "cookieContact": "8. Contactati-ne"
+      },
+      "cookieTable": {
+        "cookie": "Cookie",
+        "type": "Tip",
+        "duration": "Durata",
+        "purpose": "Scop",
+        "strictlyNecessary": "Strict Necesar",
+        "functionality": "Functionalitate",
+        "session": "Sesiune",
+        "oneYear": "1 an",
+        "supabaseAuthPurpose": "Sesiune de autentificare Supabase",
+        "stripeAuthPurpose": "Prevenirea fraudei Stripe si procesarea platilor"
+      },
+      "sections": {
+        "whatAreCookies": {
+          "heading": "1. Ce Sunt Cookie-urile",
+          "body": "Cookie-urile sunt fisiere text mici plasate pe dispozitivul dumneavoastra (computer, telefon, tableta) atunci cand vizitati un site web. Sunt utilizate pe scara larga pentru a face site-urile web sa functioneze eficient, pentru a va aminti preferintele si pentru a furniza informatii proprietarului site-ului. Cookie-urile pot fi \"persistente\" (ramand pe dispozitivul dumneavoastra pana la expirare sau stergere manuala) sau \"bazate pe sesiune\" (sterse cand inchideti browserul)."
+        },
+        "cookiesWeUse": {
+          "heading": "2. Cookie-urile pe Care le Utilizam",
+          "intro": "Ne straduim sa minimizam utilizarea cookie-urilor. Site-ul nostru web este conceput pentru a functiona cu utilizare minima de cookie-uri si utilizam alternative prietenoase cu confidentialitatea acolo unde este posibil."
+        },
+        "strictlyNecessary": {
+          "heading": "3. Cookie-uri Strict Necesare",
+          "body": "Aceste cookie-uri sunt esentiale pentru functionarea site-ului web si nu pot fi dezactivate. Includ token-uri de autentificare (necesare pentru a va mentine autentificat). In temeiul Articolului 6(1)(f) din GDPR si al Directivei ePrivacy, acestea nu necesita consimtamant deoarece sunt strict necesare pentru serviciul pe care l-ati solicitat."
+        },
+        "analyticsCookies": {
+          "heading": "4. Analiza",
+          "body": "<p>Utilizam <strong>Plausible Analytics</strong>, o platforma de analiza prietenoasa cu confidentialitatea care nu utilizeaza cookie-uri si nu colecteaza date cu caracter personal. Plausible este pe deplin conforma cu GDPR, CCPA si PECR, fara a necesita consimtamant pentru cookie-uri. Toate datele analitice sunt agregate si anonime. Nu are loc urmarirea individuala a vizitatorilor.</p><p class=\"mt-2\">Nu utilizam Google Analytics, Facebook Pixel sau alte platforme de analiza bazate pe urmarire.</p>"
+        },
+        "thirdParty": {
+          "heading": "5. Cookie-uri Terte",
+          "body": "<p class=\"mb-2\">Urmatoarele servicii terte pot seta cookie-uri atunci cand interactionati cu functiile lor pe site-ul nostru web:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Stripe</strong> (procesarea platilor): Seteaza cookie-uri pentru detectarea fraudei si procesarea securizata a platilor. Aceste cookie-uri sunt functionale si necesare cand initiati o plata. Consultati <a href=\"https://stripe.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">Politica de Confidentialitate Stripe</a>.</li><li><strong>Supabase</strong> (autentificare): Seteaza cookie-uri de sesiune pentru a va mentine starea de autentificare. Consultati <a href=\"https://supabase.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">Politica de Confidentialitate Supabase</a>.</li></ul>"
+        },
+        "managingCookies": {
+          "heading": "6. Gestionarea Preferintelor Cookie",
+          "body": "<p class=\"mb-2\">Puteti gestiona cookie-urile in urmatoarele moduri:</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Setarile browserului:</strong> Majoritatea browserelor va permit sa blocati sau sa stergeti cookie-urile prin meniul de setari.</li><li><strong>Setarile dispozitivului:</strong> Dispozitivele mobile ofera gestionarea cookie-urilor in setarile de confidentialitate.</li></ul><p class=\"mt-2\">Va rugam sa retineti ca blocarea cookie-urilor strict necesare poate impiedica functionarea corecta a site-ului web, in special functiile de autentificare si plata.</p><p class=\"mt-2\">Pentru mai multe informatii despre gestionarea cookie-urilor, vizitati <a href=\"https://www.aboutcookies.org\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">www.aboutcookies.org</a>.</p>"
+        },
+        "cookieChanges": {
+          "heading": "7. Modificari ale Acestei Politici",
+          "body": "Putem actualiza aceasta Politica Cookie atunci cand adaugam noi servicii sau tehnologii. Modificarile vor fi postate pe aceasta pagina cu o data de revizuire actualizata. Pentru modificarile semnificative care va afecteaza optiunile de consimtamant, vom furniza o notificare prominenta."
+        },
+        "cookieContact": {
+          "heading": "8. Contactati-ne",
+          "body": "<p>Pentru intrebari despre practicile noastre privind cookie-urile:</p><ul class=\"text-sm text-gray-600 mt-2 space-y-1\"><li>Email: <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    }
+  },
+  "thankYou": {
+    "download": {
+      "title": "Descarca Estetika Professional",
+      "subtitle": "Descarca aplicatia si incepe sa-ti gestionezi afacerea de frumusete astazi.",
+      "ios": "App Store (iOS)"
+    },
+    "support": "Intrebari? Contactati-ne la",
+    "backToHomepage": "Inapoi la Pagina Principala"
+  }
+}

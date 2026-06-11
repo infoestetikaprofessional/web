@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "home": {
+      "title": "Estetika Professional — Application de Gestion pour Professionnels de la Beauté",
+      "description": "Gérez vos clients, rendez-vous, formulaires de consentement, antécédents médicaux et portfolios. Conçue pour les artistes PMU, les techniciens en extensions de cils et les esthéticiens.",
+      "og": {
+        "title": "Estetika Professional — Application de Gestion pour Professionnels de la Beauté",
+        "description": "Gérez vos clients, rendez-vous, formulaires de consentement, antécédents médicaux et portfolios. Conçue pour les artistes PMU, les techniciens en extensions de cils et les esthéticiens."
+      }
+    },
+    "privacy": {
+      "title": "Politique de confidentialité — Estetika Professional",
+      "description": "Comment Estetika Professional collecte, utilise et protège vos données personnelles.",
+      "og": {
+        "title": "Politique de confidentialité — Estetika Professional",
+        "description": "Comment Estetika Professional collecte, utilise et protège vos données personnelles."
+      }
+    },
+    "terms": {
+      "title": "Conditions d'utilisation — Estetika Professional",
+      "description": "Conditions générales d'utilisation des services Estetika Professional.",
+      "og": {
+        "title": "Conditions d'utilisation — Estetika Professional",
+        "description": "Conditions générales d'utilisation des services Estetika Professional."
+      }
+    },
+    "cookie": {
+      "title": "Politique de cookies — Estetika Professional",
+      "description": "Comment Estetika Professional utilise les cookies et technologies similaires.",
+      "og": {
+        "title": "Politique de cookies — Estetika Professional",
+        "description": "Comment Estetika Professional utilise les cookies et technologies similaires."
+      }
+    },
+    "thankYou": {
+      "title": "Télécharger Estetika Professional",
+      "description": "Téléchargez l'application et gérez votre activité beauté dès aujourd'hui.",
+      "og": {
+        "title": "Télécharger Estetika Professional",
+        "description": "Téléchargez l'application et gérez votre activité beauté dès aujourd'hui."
+      }
+    }
+  },
+  "header": {
+    "cta": "Accès anticipé"
+  },
+  "hero": {
+    "title": "Gérez votre activité beauté",
+    "titleHighlight": "sans le chaos des plannings",
+    "subtitle": "Rendez-vous, formulaires de consentement, antécédents médicaux et gestion des clients — tout dans une application sécurisée, conçue pour les professionnels de la beauté.",
+    "download": {
+      "ios": "Télécharger sur iOS"
+    },
+    "badges": {
+      "gdpr": "Conforme RGPD",
+      "offline": "Fonctionne hors ligne",
+      "platforms": "iOS et Android"
+    }
+  },
+  "waitlist": {
+    "label": "Rejoignez la liste d'attente",
+    "subtitle": "Recevez les nouveautés en avant-première — et soyez les premiers informés du lancement de l'application Android.",
+    "placeholder": "Votre adresse e-mail",
+    "submit": "Obtenir l'accès anticipé",
+    "submitting": "Envoi en cours...",
+    "success": "Vous êtes sur la liste ! Nous vous contacterons bientôt.",
+    "duplicate": "Cette adresse est déjà sur la liste — à très bientôt !",
+    "invalidEmail": "Veuillez saisir une adresse e-mail valide.",
+    "error": "Une erreur est survenue. Veuillez réessayer plus tard.",
+    "gdprNote": "✓ Pas de spam. Désinscription à tout moment. Conforme au RGPD.",
+    "androidCta": "Android — rejoindre la liste d'attente"
+  },
+  "features": {
+    "title": "Tout ce qu'il vous faut pour gérer votre activité beauté",
+    "subtitle": "Conçue spécifiquement pour les artistes PMU, les techniciens en extensions de cils et les esthéticiens.",
+    "seeInAction": "Voir l'application",
+    "items": {
+      "clientManagement": {
+        "title": "Gestion des clients",
+        "description": "Coordonnées, préférences et historique des visites de chaque client, accessibles en un instant."
+      },
+      "smartScheduling": {
+        "title": "Planification intelligente",
+        "description": "Prenez des rendez-vous, suivez vos disponibilités, sans jamais faire de double réservation."
+      },
+      "consentForms": {
+        "title": "Formulaires de consentement numériques",
+        "description": "Formulaires personnalisés avec signatures numériques et génération de PDF à votre image."
+      },
+      "medicalHistory": {
+        "title": "Antécédents médicaux",
+        "description": "Suivez les allergies et pathologies avec une traçabilité complète."
+      },
+      "portfolio": {
+        "title": "Galerie portfolio",
+        "description": "Mettez en valeur vos plus belles réalisations avec des photos avant et après."
+      },
+      "offlineMode": {
+        "title": "Fonctionne hors ligne",
+        "description": "Toutes les fonctionnalités disponibles sans connexion internet, synchronisation automatique au retour en ligne."
+      }
+    },
+    "screens": {
+      "dashboard": "Tableau de bord",
+      "clientProfile": "Fiche client",
+      "consent": "Consentement",
+      "scheduling": "Planification",
+      "clients": "Clients"
+    }
+  },
+  "testimonials": {
+    "title": "Plébiscité par les professionnels de la beauté",
+    "subtitle": "Des artistes PMU, des formatrices et des propriétaires de salon font déjà confiance à Estetika Professional.",
+    "items": [
+      {
+        "photo": "mariana",
+        "name": "Mariana",
+        "role": "Formatrice PMU & Championne internationale",
+        "city": "Pays-Bas",
+        "quote": "Avoir tous les formulaires de consentement stockés numériquement dans l'application a complètement éliminé le chaos administratif dans mon salon. Je ne risque plus de perdre des documents importants, et chaque dossier client est organisé en toute sécurité et accessible instantanément. Cela me rassure et garde tout mon travail clair, structuré et professionnel."
+      },
+      {
+        "photo": "ioana",
+        "name": "Ioana Vărzaru",
+        "role": "Formatrice PMU & Conseillère beauté",
+        "city": "Bruxelles",
+        "quote": "L'échelle de Fitzpatrick intégrée et le système de suivi des pigments ont complètement changé ma façon de travailler. Je peux désormais enregistrer exactement quels pigments ont été utilisés et où, donc je sais toujours précisément comment chaque cliente a été traitée lors des séances précédentes. Ce niveau de détail me permet d'améliorer les résultats, d'assurer la cohérence et de travailler avec beaucoup plus de confiance et de précision."
+      },
+      {
+        "photo": "lilia",
+        "name": "Lilia Caraush",
+        "role": "Maître PMU & Formatrice",
+        "city": "",
+        "quote": "Avec cette application, je gagne environ 20 minutes par cliente, ce qui est extrêmement précieux dans mon travail quotidien. Toutes les données clients sont entièrement numériques et accessibles instantanément, ce qui me permet de voir l'historique complet de chaque cliente en quelques secondes. Cela simplifie considérablement mon travail, améliore l'organisation et me donne un contrôle total sur chaque rendez-vous et chaque détail."
+      },
+      {
+        "photo": "teodora",
+        "name": "Teodora Drăghici",
+        "role": "Organisatrice d'événements PMU",
+        "city": "",
+        "quote": "Je travaille avec des techniciennes beauté et je sais à quel point il est important de garder les plannings et les dossiers clients organisés au format numérique. Estetika Professional est un véritable soutien dans ce processus."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Démarrez en trois étapes simples",
+    "steps": {
+      "createAccount": {
+        "title": "Créez votre compte",
+        "description": "Inscription en moins de deux minutes. Aucune carte bancaire requise."
+      },
+      "setupPractice": {
+        "title": "Configurez votre activité",
+        "description": "Importez des modèles de prestations, personnalisez vos formulaires de consentement, ajoutez votre identité visuelle."
+      },
+      "focusClients": {
+        "title": "Concentrez-vous sur vos clients",
+        "description": "Nous gérons la paperasse, les plannings et la conformité. Vous faites ce que vous aimez."
+      }
+    }
+  },
+  "trustBadges": {
+    "title": "Sécurité et conformité au cœur de l'application",
+    "items": {
+      "gdpr": {
+        "title": "Conforme RGPD",
+        "description": "Vos données protégées selon la réglementation européenne"
+      },
+      "encrypted": {
+        "title": "Chiffrement AES-256",
+        "description": "Données chiffrées en transit et au repos"
+      },
+      "backup": {
+        "title": "Sauvegarde cloud",
+        "description": "Sauvegardes automatiques quotidiennes, aucune perte de données"
+      },
+      "madeInBelgium": {
+        "title": "Fabriqué en Belgique",
+        "description": "Entreprise européenne, hébergement européen des données"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Un tarif simple et transparent",
+    "subtitle": "Tout ce qu'il vous faut pour gérer votre activité beauté. Sans frais cachés, résiliation à tout moment.",
+    "toggle": {
+      "monthly": "Mensuel",
+      "yearly": "Annuel",
+      "label": "Changer la période de facturation"
+    },
+    "plan": {
+      "name": "Estetika Pro",
+      "subtitle": "La boîte à outils complète pour les professionnels de la beauté",
+      "badge": "Offre de lancement",
+      "monthlyPeriod": "/mois",
+      "yearlyPeriod": "/an",
+      "freeTrial": "14 jours d'essai gratuit inclus",
+      "introOffer": "6,99 EUR/mois les 3 premiers mois, puis 9,99 EUR/mois",
+      "yearlySavings": "Économisez 50 % par rapport au mensuel",
+      "downloadIos": "Télécharger sur l'App Store",
+      "features": {
+        "clients": "Clients et prestations illimités",
+        "scheduling": "Prise de rendez-vous et rappels",
+        "consentBuilder": "Créateur de formulaires de consentement personnalisés + génération PDF",
+        "medicalHistory": "Suivi des antécédents médicaux avec traçabilité",
+        "treatmentNotes": "Notes de traitement avec photos avant/après",
+        "portfolio": "Galerie portfolio",
+        "offline": "Mode hors ligne pour travailler partout",
+        "support": "Support prioritaire (réponse sous 24h)"
+      }
+    }
+  },
+  "comparison": {
+    "title": "Comparer les plans en détail",
+    "featureColumn": "Fonctionnalité",
+    "soon": "Bientôt",
+    "unlimited": "Illimité",
+    "categories": {
+      "clientManagement": {
+        "name": "Gestion des clients",
+        "features": {
+          "maxClients": "Nombre de clients",
+          "customFields": "Champs personnalisés"
+        }
+      },
+      "consentForms": {
+        "name": "Formulaires de consentement",
+        "features": {
+          "systemTemplates": "Modèles système",
+          "customBuilder": "Créateur personnalisé",
+          "pdfGeneration": "Génération PDF"
+        }
+      },
+      "medicalHistory": {
+        "name": "Antécédents médicaux",
+        "features": {
+          "fullTracking": "Suivi complet",
+          "auditTrail": "Traçabilité"
+        }
+      },
+      "appointments": {
+        "name": "Rendez-vous",
+        "features": {
+          "basicScheduling": "Planification de base",
+          "calendarView": "Vue calendrier"
+        }
+      },
+      "portfolio": {
+        "name": "Portfolio",
+        "features": {
+          "maxPhotos": "Nombre de photos",
+          "beforeAfterSets": "Séries avant/après"
+        }
+      },
+      "technical": {
+        "name": "Technique",
+        "features": {
+          "offlineMode": "Mode hors ligne",
+          "realtimeSync": "Synchronisation en temps réel"
+        }
+      },
+      "support": {
+        "name": "Support",
+        "features": {
+          "responseTime": "Délai de réponse",
+          "priority": "Priorité",
+          "onboardingCall": "Appel d'intégration"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": {
+      "launch": {
+        "question": "Quand l'application sera-t-elle disponible ?",
+        "answer": "Nous sommes en phase finale de tests bêta. Inscrivez-vous avec votre adresse e-mail pour être informé en premier de notre lancement sur l'App Store et Google Play."
+      },
+      "pricing": {
+        "question": "Quel est le tarif ?",
+        "answer": "Estetika Pro coûte 9,99 EUR/mois après une période de lancement à 6,99 EUR/mois pendant vos 3 premiers mois. Sans frais cachés, résiliation à tout moment."
+      },
+      "trial": {
+        "question": "Puis-je tester avant de m'abonner ?",
+        "answer": "Oui ! Chaque abonnement inclut une période d'essai gratuite de 14 jours. Inscrivez-vous dès maintenant pour réserver votre place."
+      },
+      "security": {
+        "question": "Mes données sont-elles sécurisées ?",
+        "answer": "Absolument. Toutes les données sont chiffrées en AES-256, conformes au RGPD et hébergées sur des serveurs européens. Les informations de vos clients sont protégées."
+      },
+      "switchPlans": {
+        "question": "Puis-je changer de formule plus tard ?",
+        "answer": "Oui, vous pouvez passer à une formule supérieure ou inférieure à tout moment. Les changements prennent effet au prochain cycle de facturation."
+      },
+      "contact": {
+        "question": "Comment vous contacter ?",
+        "answer": "Vous pouvez nous joindre à tout moment via WhatsApp (appuyez sur la bulle verte en bas de page) ou par e-mail à support{'@'}estetikaprofessional.com."
+      }
+    }
+  },
+  "finalCta": {
+    "title": "Prêt à transformer la gestion de votre activité beauté ?",
+    "subtitle": "Téléchargez l'application et gérez votre activité beauté dès aujourd'hui.",
+    "download": {
+      "ios": "Télécharger sur iOS"
+    }
+  },
+  "footer": {
+    "tagline": "Gérez votre activité beauté en toute confiance.",
+    "legal": "Mentions légales",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "cookiePolicy": "Politique de cookies",
+    "contact": "Contact",
+    "builtIn": "Fabriqué à Bruxelles",
+    "copyright": "© 2026 Estetika Professional. Tous droits réservés."
+  },
+  "cookieConsent": {
+    "message": "Nous utilisons uniquement des cookies essentiels au fonctionnement du site — aucun traceur publicitaire. En savoir plus dans notre",
+    "accept": "Accepter",
+    "decline": "Refuser",
+    "policy": "Politique de cookies"
+  },
+  "whatsapp": {
+    "tooltip": "Dites bonjour — nous lançons bientôt !",
+    "ariaLabel": "Discuter avec nous sur WhatsApp",
+    "message": "Bonjour ! Je souhaite savoir quand Estetika Professional sera disponible"
+  },
+  "legal": {
+    "tableOfContents": "Table des matières",
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "lastUpdated": "Dernière mise à jour : mars 2026",
+      "intro": "Cette politique de confidentialité décrit comment Estetika Professional (« nous », « notre ») collecte, utilise et protège vos données personnelles lorsque vous utilisez notre application mobile et notre site web.",
+      "toc": {
+        "controller": "1. Responsable du traitement",
+        "dataCollected": "2. Données collectées",
+        "legalBasis": "3. Base juridique du traitement",
+        "specialCategories": "4. Catégories particulières de données",
+        "howWeUse": "5. Utilisation de vos données",
+        "dataProcessors": "6. Sous-traitants et tiers",
+        "dataRetention": "7. Conservation des données",
+        "yourRights": "8. Vos droits au titre du RGPD",
+        "international": "9. Transferts internationaux de données",
+        "security": "10. Sécurité des données",
+        "children": "11. Protection des mineurs",
+        "changes": "12. Modifications de la présente politique",
+        "contact": "13. Nous contacter"
+      },
+      "sections": {
+        "controller": {
+          "heading": "1. Responsable du traitement",
+          "body": "<p>Le responsable du traitement de vos données personnelles est Estetika Professional, une société enregistrée en Belgique.</p><p class=\"mt-2\">Contact du délégué à la protection des données : <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></p>"
+        },
+        "dataCollected": {
+          "heading": "2. Données collectées",
+          "body": "<h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.1 Données de compte (praticiens)</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Nom complet, adresse e-mail, numéro de téléphone</li><li>Nom de l'établissement, spécialité (ex. : artiste PMU, technicien en extensions de cils, esthéticien)</li><li>Adresse professionnelle, numéro de TVA (le cas échéant)</li><li>Photo de profil, certifications professionnelles</li><li>Informations de paiement et de facturation (traitées par Stripe)</li></ul><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.2 Données clients (saisies par les praticiens)</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Nom, adresse e-mail, téléphone, date de naissance du client</li><li>Historique des soins et rendez-vous</li><li>Formulaires de consentement signés numériquement avec horodatage</li><li>Photos portfolio (clichés avant et après)</li></ul><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.3 Données médicales et de santé</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Allergies et sensibilités cutanées</li><li>Médicaments en cours</li><li>Affections cutanées et antécédents médicaux pertinents</li><li>Grossesse ou allaitement</li><li>Réactions aux soins précédents</li></ul><p class=\"text-sm text-gray-500 mt-2 italic\">Ces données constituent des catégories particulières au sens de l'article 9 du RGPD et sont traitées sur la base d'un consentement explicite.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">2.4 Données techniques</h3><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Type d'appareil, système d'exploitation, version de l'application</li><li>Adresse IP (anonymisée pour les analyses)</li><li>Données d'utilisation et d'interaction avec les fonctionnalités</li><li>Rapports de plantage et indicateurs de performance</li></ul>"
+        },
+        "legalBasis": {
+          "heading": "3. Base juridique du traitement",
+          "body": "<p class=\"mb-3\">Nous traitons vos données personnelles sur les bases juridiques suivantes, conformément à l'article 6(1) du RGPD :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Exécution du contrat (art. 6(1)(b)) :</strong> traitement nécessaire à la fourniture de nos services, à la gestion de votre abonnement et au fonctionnement de l'application.</li><li><strong>Intérêt légitime (art. 6(1)(f)) :</strong> analyses pour améliorer nos services, prévention des fraudes et sécurité de l'application. Cet intérêt est mis en balance avec vos droits à la vie privée.</li><li><strong>Consentement (art. 6(1)(a)) :</strong> communications marketing, cookies optionnels et tout traitement pour lequel nous sollicitons spécifiquement votre accord.</li><li><strong>Obligation légale (art. 6(1)(c)) :</strong> registres fiscaux, conformité aux exigences réglementaires belges et européennes.</li></ul>"
+        },
+        "specialCategories": {
+          "heading": "4. Catégories particulières de données",
+          "body": "<p>Les antécédents médicaux et données de santé saisis dans Estetika Professional constituent des « catégories particulières de données » au sens de l'article 9 du RGPD. Ces données sont traitées exclusivement sur la base du <strong>consentement explicite (art. 9(2)(a))</strong> fourni par le client via notre système de formulaires de consentement numériques. Le praticien (notre utilisateur) agit en tant que responsable conjoint du traitement pour ces données dans le cadre de sa relation avec ses clients.</p>"
+        },
+        "howWeUse": {
+          "heading": "5. Utilisation de vos données",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Fourniture et maintenance de l'application Estetika Professional</li><li>Traitement des abonnements et paiements</li><li>Stockage et organisation des dossiers clients pour les praticiens</li><li>Génération et conservation sécurisée des formulaires de consentement numériques</li><li>Envoi d'e-mails transactionnels (confirmations, reçus, rappels)</li><li>Amélioration des fonctionnalités via des analyses d'utilisation anonymisées</li><li>Assistance clientèle</li><li>Respect des obligations légales</li></ul>"
+        },
+        "dataProcessors": {
+          "heading": "6. Sous-traitants et tiers",
+          "body": "<p class=\"mb-3\">Nous faisons appel aux sous-traitants suivants, tous conformes au RGPD avec des accords de traitement des données (DPA) en place :</p><div class=\"overflow-x-auto\"><table class=\"w-full text-sm\"><thead><tr class=\"border-b border-border\"><th class=\"text-left py-2 pr-4 font-semibold text-gray-700\">Sous-traitant</th><th class=\"text-left py-2 pr-4 font-semibold text-gray-700\">Finalité</th><th class=\"text-left py-2 font-semibold text-gray-700\">Localisation des données</th></tr></thead><tbody class=\"text-gray-600\"><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Supabase (US, serveurs EU)</td><td class=\"py-2 pr-4\">Base de données, authentification, stockage de fichiers</td><td class=\"py-2\">UE (Francfort)</td></tr><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Stripe (US, UE)</td><td class=\"py-2 pr-4\">Traitement des paiements</td><td class=\"py-2\">UE</td></tr><tr class=\"border-b border-border/50\"><td class=\"py-2 pr-4\">Resend (US)</td><td class=\"py-2 pr-4\">Envoi d'e-mails transactionnels</td><td class=\"py-2\">US (CCT en place)</td></tr><tr><td class=\"py-2 pr-4\">Plausible Analytics (UE)</td><td class=\"py-2 pr-4\">Analyses web respectueuses de la vie privée</td><td class=\"py-2\">UE</td></tr></tbody></table></div>"
+        },
+        "dataRetention": {
+          "heading": "7. Conservation des données",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Données de compte :</strong> conservées pendant la durée de votre abonnement et 30 jours après la suppression du compte.</li><li><strong>Dossiers clients et formulaires de consentement :</strong> conservés tant que le compte du praticien est actif. Les praticiens peuvent supprimer les dossiers clients individuels à tout moment.</li><li><strong>Antécédents médicaux :</strong> même durée de conservation que les dossiers clients. Sous réserve des exigences légales belges en matière de conservation des dossiers de soins esthétiques.</li><li><strong>Données de paiement :</strong> conservées 7 ans conformément au droit fiscal belge.</li><li><strong>Données analytiques :</strong> anonymisées et conservées indéfiniment (aucune donnée personnelle).</li></ul>"
+        },
+        "yourRights": {
+          "heading": "8. Vos droits au titre du RGPD",
+          "body": "<p class=\"mb-3\">En vertu du Règlement général sur la protection des données, vous disposez des droits suivants :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Droit d'accès (art. 15) :</strong> demander une copie de l'ensemble des données personnelles que nous détenons vous concernant.</li><li><strong>Droit de rectification (art. 16) :</strong> demander la correction de données personnelles inexactes.</li><li><strong>Droit à l'effacement (art. 17) :</strong> demander la suppression de vos données personnelles (« droit à l'oubli »).</li><li><strong>Droit à la limitation du traitement (art. 18) :</strong> demander la restriction de l'utilisation de vos données.</li><li><strong>Droit à la portabilité des données (art. 20) :</strong> recevoir vos données dans un format structuré et lisible par machine.</li><li><strong>Droit d'opposition (art. 21) :</strong> vous opposer au traitement fondé sur l'intérêt légitime ou à des fins de prospection commerciale.</li><li><strong>Droit de retirer votre consentement :</strong> retirer votre consentement à tout moment sans affecter la licéité du traitement antérieur.</li></ul><p class=\"mt-3\">Pour exercer l'un de ces droits, contactez-nous à <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a>. Nous répondrons dans les 30 jours conformément au RGPD.</p><p class=\"mt-2\">Vous avez également le droit d'introduire une réclamation auprès de l'Autorité de protection des données belge : <a href=\"https://www.dataprotectionauthority.be\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">www.dataprotectionauthority.be</a></p>"
+        },
+        "international": {
+          "heading": "9. Transferts internationaux de données",
+          "body": "Vos données sont principalement stockées sur des serveurs situés dans l'Union européenne. Lorsqu'un transfert vers des pays tiers est nécessaire (par exemple, certains sous-traitants basés aux États-Unis), nous garantissons une protection adéquate par le biais de clauses contractuelles types (CCT) ou de décisions d'adéquation conformément au chapitre V du RGPD. Nous ne transférons pas de données de catégories particulières (données de santé) en dehors de l'UE."
+        },
+        "security": {
+          "heading": "10. Sécurité des données",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Chiffrement AES 256 bits des données au repos</li><li>Chiffrement TLS 1.3 des données en transit</li><li>Sécurité au niveau des lignes (RLS) sur toutes les tables de la base de données</li><li>Audits de sécurité réguliers et tests d'intrusion</li><li>Authentification sécurisée avec hachage des mots de passe bcrypt</li><li>Sauvegardes automatisées avec récupération à un instant précis</li></ul>"
+        },
+        "children": {
+          "heading": "11. Protection des mineurs",
+          "body": "Estetika Professional est destinée aux praticiens professionnels de la beauté et n'est pas conçue pour les personnes de moins de 18 ans. Nous ne collectons pas sciemment de données personnelles auprès de mineurs. Si des dossiers clients concernent des mineurs (par exemple, consentement parental pour des soins), le praticien est responsable de l'obtention du consentement parental ou tutoral approprié."
+        },
+        "changes": {
+          "heading": "12. Modifications de la présente politique",
+          "body": "Nous pouvons mettre à jour cette politique de confidentialité périodiquement. Nous vous informerons des modifications importantes par e-mail ou notification dans l'application au moins 30 jours avant leur entrée en vigueur. La poursuite de l'utilisation du service après les modifications vaut acceptation de la politique mise à jour."
+        },
+        "contact": {
+          "heading": "13. Nous contacter",
+          "body": "<p>Pour toute question relative à la confidentialité ou pour exercer vos droits :</p><ul class=\"text-sm text-gray-600 mt-2 space-y-1\"><li>E-mail : <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></li><li>Général : <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    },
+    "terms": {
+      "title": "Conditions d'utilisation",
+      "lastUpdated": "Dernière mise à jour : mars 2026",
+      "intro": "Les présentes conditions d'utilisation (« Conditions ») régissent votre utilisation de l'application mobile et du site web Estetika Professional (le « Service »), exploités par Estetika Professional (« nous », « notre »), une société enregistrée en Belgique.",
+      "toc": {
+        "acceptance": "1. Acceptation des conditions",
+        "serviceDescription": "2. Description du service",
+        "account": "3. Création de compte",
+        "subscriptions": "4. Abonnements et tarifs",
+        "foundersClub": "5. Conditions du Founders Club",
+        "payments": "6. Paiements et facturation",
+        "refunds": "7. Remboursements et résiliations",
+        "acceptableUse": "8. Utilisation acceptable",
+        "dataResponsibility": "9. Responsabilité des données",
+        "intellectualProperty": "10. Propriété intellectuelle",
+        "liability": "11. Limitation de responsabilité",
+        "termination": "12. Résiliation",
+        "governingLaw": "13. Droit applicable et litiges",
+        "changesTerms": "14. Modifications des présentes conditions",
+        "contactTerms": "15. Coordonnées"
+      },
+      "sections": {
+        "acceptance": {
+          "heading": "1. Acceptation des conditions",
+          "body": "En créant un compte, en téléchargeant l'application ou en utilisant toute partie du Service, vous acceptez d'être lié par les présentes Conditions. Si vous n'acceptez pas ces Conditions, vous ne pouvez pas utiliser le Service. Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Estetika Professional."
+        },
+        "serviceDescription": {
+          "heading": "2. Description du service",
+          "body": "<p>Estetika Professional propose une application mobile et des services associés pour les professionnels de la beauté, notamment :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1 mt-2\"><li>Gestion des profils clients et des contacts</li><li>Planification des rendez-vous et gestion de l'agenda</li><li>Création, personnalisation et collecte de signatures sur formulaires de consentement numériques</li><li>Suivi des antécédents médicaux et questionnaires de santé</li><li>Portfolio de soins et gestion des photos avant et après</li><li>Support multilingue pour les cabinets internationaux</li></ul><p class=\"mt-2\">Le Service est actuellement en phase bêta pré-lancement. Les fonctionnalités peuvent évoluer, être ajoutées ou modifiées pendant cette période. Nous communiquerons à l'avance les changements importants aux utilisateurs bêta.</p>"
+        },
+        "account": {
+          "heading": "3. Création de compte",
+          "body": "Vous devez avoir au moins 18 ans et exercer en tant que praticien professionnel de la beauté (ou représentant autorisé d'un établissement de beauté) pour créer un compte. Vous êtes responsable de la confidentialité de vos identifiants et de toutes les activités réalisées sous votre compte. Vous devez fournir des informations exactes, à jour et complètes lors de votre inscription."
+        },
+        "subscriptions": {
+          "heading": "4. Abonnements et tarifs",
+          "body": "<p class=\"mb-2\">Nous proposons les types de forfaits suivants :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Founders Club (à vie) :</strong> paiement unique pour un accès permanent. Limité à 200 places au total.</li><li><strong>Early Bird annuel :</strong> abonnement annuel à tarif préférentiel disponible pendant la période de pré-lancement.</li><li><strong>Forfaits standard :</strong> abonnements mensuels et annuels disponibles après le lancement public aux tarifs habituels.</li></ul><p class=\"mt-2\">Tous les prix sont indiqués en euros (EUR) et incluent la TVA applicable selon la réglementation belge et européenne.</p>"
+        },
+        "foundersClub": {
+          "heading": "5. Conditions du Founders Club",
+          "body": "<ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>L'adhésion au Founders Club donne accès à vie aux fonctionnalités incluses dans le niveau souscrit (Solo, Studio ou Clinic) au moment de l'achat, ainsi qu'à toutes les mises à jour futures.</li><li>L'accès à vie désigne la durée d'exploitation du Service. Si Estetika Professional cesse son activité, nous enverrons un préavis d'au moins 6 mois et proposerons un export complet des données.</li><li>Les places du Founders Club sont limitées à 200 au total. Une fois toutes les places pourvues, cette offre ne sera plus disponible.</li></ul>"
+        },
+        "payments": {
+          "heading": "6. Paiements et facturation",
+          "body": "Tous les paiements sont traités de manière sécurisée via Stripe. Nous ne conservons pas vos coordonnées bancaires complètes sur nos serveurs. Pour les abonnements annuels, la facturation intervient au début de chaque cycle de facturation. Nous vous informerons au moins 14 jours avant toute hausse de tarif sur votre forfait en cours."
+        },
+        "refunds": {
+          "heading": "7. Remboursements et résiliations",
+          "body": "<h3 class=\"text-base font-semibold text-gray-700 mt-3 mb-2 font-sans\">7.1 Droit de rétractation de l'UE</h3><p>En vertu de la directive européenne 2011/83/UE sur les droits des consommateurs, vous disposez d'un droit de rétractation de 14 jours à compter de la date d'achat. Pour exercer ce droit, contactez-nous à <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a> en précisant les détails de votre commande. Le remboursement sera effectué sur le mode de paiement d'origine dans les 14 jours suivant la réception de votre demande de rétractation.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">7.2 Abonnements annuels</h3><p>Vous pouvez résilier votre abonnement annuel à tout moment. Vous conservez l'accès au Service jusqu'à la fin de votre période de facturation en cours. Aucun remboursement partiel n'est accordé pour la période restante après la fenêtre de rétractation de 14 jours.</p><h3 class=\"text-base font-semibold text-gray-700 mt-4 mb-2 font-sans\">7.3 Founders Club</h3><p>Les achats Founders Club à vie sont éligibles à un remboursement intégral dans les 14 jours suivant l'achat (droit de rétractation de l'UE). Passé ce délai, les achats Founders Club ne sont pas remboursables.</p>"
+        },
+        "acceptableUse": {
+          "heading": "8. Utilisation acceptable",
+          "body": "<p class=\"mb-2\">Vous vous engagez à ne pas :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li>Utiliser le Service à des fins autres que la gestion d'une activité de beauté ou d'esthétique légitime</li><li>Stocker des données en violation des lois applicables ou des droits de tiers</li><li>Tenter de contourner les mesures de sécurité ou d'accéder aux données d'autres utilisateurs</li><li>Effectuer de la rétro-ingénierie, décompiler ou désassembler l'application</li><li>Utiliser des systèmes automatisés pour accéder au Service (robots, scraping)</li><li>Partager vos identifiants avec des tiers non autorisés</li></ul>"
+        },
+        "dataResponsibility": {
+          "heading": "9. Responsabilité des données",
+          "body": "<p>En tant que praticien, vous êtes responsable de l'exactitude et de la licéité des données clients que vous saisissez dans le Service. Vous devez obtenir le consentement approprié de vos clients avant de saisir leurs données personnelles, y compris leurs antécédents médicaux et photographies. Vous agissez en tant que responsable du traitement pour les données de vos clients, et Estetika Professional agit en tant que sous-traitant en votre nom. Nos responsabilités sont détaillées dans notre politique de confidentialité et dans l'accord de traitement des données disponible sur demande.</p>"
+        },
+        "intellectualProperty": {
+          "heading": "10. Propriété intellectuelle",
+          "body": "L'application Estetika Professional, le site web, la marque, le design et l'ensemble des droits de propriété intellectuelle associés appartiennent à Estetika Professional. Votre abonnement vous confère une licence limitée, non exclusive et non cessible d'utilisation du Service. Vous conservez la propriété de tout le contenu que vous téléversez (photos, textes, formulaires)."
+        },
+        "liability": {
+          "heading": "11. Limitation de responsabilité",
+          "body": "<p>Dans les limites maximales autorisées par le droit belge et européen, Estetika Professional ne pourra être tenue responsable de tout dommage indirect, accessoire, spécial, consécutif ou punitif découlant de votre utilisation du Service. Notre responsabilité totale pour toute réclamation ne saurait excéder le montant que vous nous avez versé au cours des 12 mois précédant la réclamation. Cette limitation ne s'applique pas à la responsabilité qui ne peut être exclue ou limitée en vertu du droit applicable (fraude, faute grave, etc.).</p><p class=\"mt-2\">Le Service ne remplace pas un avis médical ou juridique professionnel. Les formulaires de consentement générés par le Service sont des outils d'aide à votre pratique, mais leur validité juridique peut varier selon les juridictions.</p>"
+        },
+        "termination": {
+          "heading": "12. Résiliation",
+          "body": "Vous pouvez clôturer votre compte à tout moment via les paramètres de l'application ou en nous contactant. Nous pouvons résilier ou suspendre votre compte en cas de violation des présentes Conditions, avec préavis sauf en cas de violation grave (fraude, activité illégale). Après résiliation, vous disposez de 30 jours pour exporter vos données avant leur suppression définitive."
+        },
+        "governingLaw": {
+          "heading": "13. Droit applicable et litiges",
+          "body": "<p>Les présentes Conditions sont régies par le droit belge, sans égard aux règles de conflit de lois. Tout litige sera soumis aux juridictions compétentes de Belgique. Pour les consommateurs de l'UE, les présentes Conditions n'affectent pas vos droits légaux en vertu du droit européen de la consommation, y compris votre droit d'agir devant les juridictions de votre pays de résidence. Vous pouvez également recourir à la plateforme européenne de règlement en ligne des litiges : <a href=\"https://ec.europa.eu/consumers/odr\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">https://ec.europa.eu/consumers/odr</a></p>"
+        },
+        "changesTerms": {
+          "heading": "14. Modifications des présentes conditions",
+          "body": "Nous nous réservons le droit de modifier les présentes Conditions. Les modifications importantes vous seront communiquées par e-mail ou notification dans l'application au moins 30 jours à l'avance. La poursuite de l'utilisation du Service après l'entrée en vigueur des modifications vaut acceptation. Si vous n'acceptez pas les Conditions mises à jour, vous pouvez clôturer votre compte."
+        },
+        "contactTerms": {
+          "heading": "15. Coordonnées",
+          "body": "<ul class=\"text-sm text-gray-600 space-y-1\"><li>E-mail : <a href=\"mailto:support{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">support{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    },
+    "cookie": {
+      "title": "Politique de cookies",
+      "lastUpdated": "Dernière mise à jour : mars 2026",
+      "intro": "La présente politique de cookies explique comment Estetika Professional (« nous », « notre ») utilise les cookies et technologies de suivi similaires sur notre site web (estetikaprofessional.com).",
+      "toc": {
+        "whatAreCookies": "1. Qu'est-ce qu'un cookie ?",
+        "cookiesWeUse": "2. Cookies que nous utilisons",
+        "strictlyNecessary": "3. Cookies strictement nécessaires",
+        "analyticsCookies": "4. Analyse d'audience",
+        "thirdParty": "5. Cookies tiers",
+        "managingCookies": "6. Gérer vos préférences de cookies",
+        "cookieChanges": "7. Modifications de la présente politique",
+        "cookieContact": "8. Nous contacter"
+      },
+      "cookieTable": {
+        "cookie": "Cookie",
+        "type": "Type",
+        "duration": "Durée",
+        "purpose": "Finalité",
+        "strictlyNecessary": "Strictement nécessaire",
+        "functionality": "Fonctionnel",
+        "session": "Session",
+        "oneYear": "1 an",
+        "supabaseAuthPurpose": "Session d'authentification Supabase",
+        "stripeAuthPurpose": "Prévention de la fraude et traitement des paiements Stripe"
+      },
+      "sections": {
+        "whatAreCookies": {
+          "heading": "1. Qu'est-ce qu'un cookie ?",
+          "body": "Les cookies sont de petits fichiers texte déposés sur votre appareil (ordinateur, téléphone, tablette) lorsque vous visitez un site web. Ils sont largement utilisés pour assurer le bon fonctionnement des sites, mémoriser vos préférences et fournir des informations au propriétaire du site. Les cookies peuvent être « persistants » (ils restent sur votre appareil jusqu'à leur expiration ou suppression manuelle) ou « de session » (supprimés à la fermeture de votre navigateur)."
+        },
+        "cookiesWeUse": {
+          "heading": "2. Cookies que nous utilisons",
+          "intro": "Nous nous efforçons de limiter notre utilisation des cookies au strict minimum. Notre site est conçu pour fonctionner avec le moins de cookies possible, et nous privilégions des alternatives respectueuses de la vie privée dès que possible."
+        },
+        "strictlyNecessary": {
+          "heading": "3. Cookies strictement nécessaires",
+          "body": "Ces cookies sont indispensables au fonctionnement du site et ne peuvent pas être désactivés. Ils incluent les jetons d'authentification (nécessaires pour maintenir votre session ouverte). Conformément à l'article 6(1)(f) du RGPD et à la directive ePrivacy, ils ne nécessitent pas de consentement car ils sont strictement nécessaires au service que vous avez demandé."
+        },
+        "analyticsCookies": {
+          "heading": "4. Analyse d'audience",
+          "body": "<p>Nous utilisons <strong>Plausible Analytics</strong>, une plateforme d'analyse respectueuse de la vie privée qui n'utilise pas de cookies et ne collecte aucune donnée personnelle. Plausible est entièrement conforme au RGPD, au CCPA et au PECR sans nécessiter de consentement aux cookies. Toutes les données analytiques sont agrégées et anonymes. Aucun suivi individuel des visiteurs n'est réalisé.</p><p class=\"mt-2\">Nous n'utilisons <strong>pas</strong> Google Analytics, Facebook Pixel ni aucune autre plateforme d'analyse basée sur le suivi.</p>"
+        },
+        "thirdParty": {
+          "heading": "5. Cookies tiers",
+          "body": "<p class=\"mb-2\">Les services tiers suivants peuvent déposer des cookies lorsque vous interagissez avec leurs fonctionnalités sur notre site :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-2\"><li><strong>Stripe</strong> (traitement des paiements) : dépose des cookies à des fins de détection des fraudes et de traitement sécurisé des paiements. Ces cookies sont fonctionnels et nécessaires lorsque vous initiez un paiement. Voir la <a href=\"https://stripe.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">politique de confidentialité de Stripe</a>.</li><li><strong>Supabase</strong> (authentification) : dépose des cookies de session pour maintenir votre connexion. Voir la <a href=\"https://supabase.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">politique de confidentialité de Supabase</a>.</li></ul>"
+        },
+        "managingCookies": {
+          "heading": "6. Gérer vos préférences de cookies",
+          "body": "<p class=\"mb-2\">Vous pouvez gérer les cookies de plusieurs façons :</p><ul class=\"list-disc list-inside text-sm text-gray-600 space-y-1\"><li><strong>Paramètres du navigateur :</strong> la plupart des navigateurs vous permettent de bloquer ou supprimer les cookies via leurs paramètres.</li><li><strong>Paramètres de l'appareil :</strong> les appareils mobiles proposent une gestion des cookies dans leurs paramètres de confidentialité.</li></ul><p class=\"mt-2\">Notez que le blocage des cookies strictement nécessaires peut empêcher le bon fonctionnement du site, notamment pour la connexion et les paiements.</p><p class=\"mt-2\">Pour en savoir plus sur la gestion des cookies, consultez <a href=\"https://www.aboutcookies.org\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary hover:underline\">www.aboutcookies.org</a>.</p>"
+        },
+        "cookieChanges": {
+          "heading": "7. Modifications de la présente politique",
+          "body": "Nous pouvons mettre à jour cette politique de cookies lors de l'ajout de nouveaux services ou technologies. Les modifications seront publiées sur cette page avec une date de révision actualisée. Pour les changements importants affectant vos choix de consentement, nous vous en informerons de manière visible."
+        },
+        "cookieContact": {
+          "heading": "8. Nous contacter",
+          "body": "<p>Pour toute question relative à notre utilisation des cookies :</p><ul class=\"text-sm text-gray-600 mt-2 space-y-1\"><li>E-mail : <a href=\"mailto:privacy{'@'}estetikaprofessional.com\" class=\"text-primary hover:underline\">privacy{'@'}estetikaprofessional.com</a></li></ul>"
+        }
+      }
+    }
+  },
+  "thankYou": {
+    "download": {
+      "title": "Télécharger Estetika Professional",
+      "subtitle": "Téléchargez l'application et gérez votre activité beauté dès aujourd'hui.",
+      "ios": "App Store (iOS)"
+    },
+    "support": "Des questions ? Contactez-nous à",
+    "backToHomepage": "Retour à l'accueil"
+  }
+}
